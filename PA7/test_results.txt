@@ -1,0 +1,99 @@
+Results for n == 10000, w == 5, b == 50
+Time to completion: 22.75645 secs
+
+Results for n == 10000, w == 10, b == 50
+Time to completion: 11.32004 secs
+
+Results for n == 10000, w == 15, b == 50
+Time to completion: 7.414087 secs
+
+Results for n == 10000, w == 20, b == 50
+Time to completion: 5.544416 secs
+
+Results for n == 10000, w == 25, b == 50
+Time to completion: 4.434669 secs
+
+Results for n == 10000, w == 30, b == 50
+Time to completion: 3.690163 secs
+
+Results for n == 10000, w == 35, b == 50
+Time to completion: 3.170341 secs
+
+Results for n == 10000, w == 40, b == 50
+Time to completion: 2.76145 secs
+
+Results for n == 10000, w == 45, b == 50
+Time to completion: 2.479789 secs
+
+Results for n == 10000, w == 50, b == 50
+Time to completion: 2.236257 secs
+
+Results for n == 10000, w == 55, b == 55
+Time to completion: 2.047141 secs
+
+Results for n == 10000, w == 60, b == 60
+Time to completion: 1.85279 secs
+
+Results for n == 10000, w == 65, b == 65
+Time to completion: 1.754723 secs
+
+Results for n == 10000, w == 70, b == 70
+Time to completion: 1.601174 secs
+
+Results for n == 10000, w == 75, b == 75
+Time to completion: 1.489657 secs
+
+Results for n == 10000, w == 80, b == 80
+Time to completion: 1.389523 secs
+
+Results for n == 10000, w == 85, b == 85
+Time to completion: 1.335108 secs
+
+Results for n == 10000, w == 90, b == 90
+Time to completion: 1.243575 secs
+
+Results for n == 10000, w == 95, b == 95
+Time to completion: 1.181427 secs
+
+Results for n == 10000, w == 100, b == 100
+Time to completion: 1.104438 secs
+
+Results for n == 10000, w == 105, b == 105
+Time to completion: 1.097207 secs
+
+Results for n == 10000, w == 110, b == 110
+Time to completion: 1.02455 secs
+
+Results for n == 10000, w == 115, b == 115
+Time to completion: 0.991234 secs
+
+Results for n == 10000, w == 120, b == 120
+Time to completion: 0.943746 secs
+
+Results for n == 10000, w == 125, b == 125
+Time to completion: 0.943839 secs
+
+Results for n == 10000, w == 130, b == 130
+Time to completion: 0.921146 secs
+
+Results for n == 10000, w == 135, b == 135
+Time to completion: 0.854286 secs
+
+Results for n == 10000, w == 140, b == 140
+Time to completion: 0.824968 secs
+
+Results for n == 10000, w == 145, b == 145
+Time to completion: 0.900494 secs
+
+Results for n == 10000, w == 150, b == 150
+Time to completion: 0.874779 secs
+
+Results for n == 10000, w == 155, b == 155
+Time to completion: 0.859284 secs
+
+Results for n == 10000, w == 160, b == 160
+Time to completion: 0.820979 secs
+
+Results for n == 10000, w == 165, b == 165
+Time to completion: 0.871381 secs
+

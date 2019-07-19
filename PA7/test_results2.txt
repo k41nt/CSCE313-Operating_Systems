@@ -1,0 +1,27 @@
+Results for n == 10000, w == 50, b == 50
+Time to completion: 2.189583 secs
+
+Results for n == 10000, w == 50, b == 100
+Time to completion: 2.191611 secs
+
+Results for n == 10000, w == 50, b == 150
+Time to completion: 2.186829 secs
+
+Results for n == 10000, w == 50, b == 250
+Time to completion: 2.176229 secs
+
+Results for n == 10000, w == 50, b == 300
+Time to completion: 2.185671 secs
+
+Results for n == 10000, w == 50, b == 350
+Time to completion: 2.19958 secs
+
+Results for n == 10000, w == 50, b == 400
+Time to completion: 2.195265 secs
+
+Results for n == 10000, w == 50, b == 450
+Time to completion: 2.17405 secs
+
+Results for n == 10000, w == 50, b == 500
+Time to completion: 2.18127 secs
+

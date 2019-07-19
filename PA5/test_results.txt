@@ -1,0 +1,153 @@
+Results for n == 10000, w == 1, b == 50
+Time to completion: 108.2732 secs
+
+Results for n == 10000, w == 5, b == 50
+Time to completion: 21.67724 secs
+
+Results for n == 10000, w == 10, b == 50
+Time to completion: 10.79319 secs
+
+Results for n == 10000, w == 15, b == 50
+Time to completion: 7.181765 secs
+
+Results for n == 10000, w == 20, b == 50
+Time to completion: 5.368874 secs
+
+Results for n == 10000, w == 25, b == 50
+Time to completion: 4.301861 secs
+
+Results for n == 10000, w == 30, b == 50
+Time to completion: 3.631179 secs
+
+Results for n == 10000, w == 35, b == 50
+Time to completion: 3.10386 secs
+
+Results for n == 10000, w == 40, b == 50
+Time to completion: 2.72734 secs
+
+Results for n == 10000, w == 45, b == 50
+Time to completion: 2.461547 secs
+
+Results for n == 10000, w == 50, b == 50
+Time to completion: 2.208755 secs
+
+Results for n == 10000, w == 55, b == 50
+Time to completion: 2.002561 secs
+
+Results for n == 10000, w == 60, b == 50
+Time to completion: 1.837908 secs
+
+Results for n == 10000, w == 65, b == 50
+Time to completion: 1.768593 secs
+
+Results for n == 10000, w == 70, b == 50
+Time to completion: 1.625 secs
+
+Results for n == 10000, w == 75, b == 50
+Time to completion: 1.549998 secs
+
+Results for n == 10000, w == 80, b == 50
+Time to completion: 1.437514 secs
+
+Results for n == 10000, w == 85, b == 50
+Time to completion: 1.366997 secs
+
+Results for n == 10000, w == 90, b == 50
+Time to completion: 1.302182 secs
+
+Results for n == 10000, w == 95, b == 50
+Time to completion: 1.235248 secs
+
+Results for n == 10000, w == 100, b == 50
+Time to completion: 1.178475 secs
+
+Results for n == 10000, w == 105, b == 50
+Time to completion: 1.165981 secs
+
+Results for n == 10000, w == 110, b == 50
+Time to completion: 1.067454 secs
+
+Results for n == 10000, w == 115, b == 50
+Time to completion: 1.065277 secs
+
+Results for n == 10000, w == 120, b == 50
+Time to completion: 0.972671 secs
+
+Results for n == 10000, w == 125, b == 50
+Time to completion: 0.996905 secs
+
+Results for n == 10000, w == 130, b == 50
+Time to completion: 1.009772 secs
+
+Results for n == 10000, w == 135, b == 50
+Time to completion: 0.928047 secs
+
+Results for n == 10000, w == 140, b == 50
+Time to completion: 0.935939 secs
+
+Results for n == 10000, w == 145, b == 50
+Time to completion: 0.943714 secs
+
+Results for n == 10000, w == 150, b == 50
+Time to completion: 0.936136 secs
+
+Results for n == 10000, w == 155, b == 50
+Time to completion: 0.899152 secs
+
+Results for n == 10000, w == 160, b == 50
+Time to completion: 0.852507 secs
+
+Results for n == 10000, w == 165, b == 50
+Time to completion: 0.846903 secs
+
+Results for n == 10000, w == 170, b == 50
+Time to completion: 0.814475 secs
+
+Results for n == 10000, w == 175, b == 50
+Time to completion: 0.834277 secs
+
+Results for n == 10000, w == 180, b == 50
+Time to completion: 0.789472 secs
+
+Results for n == 10000, w == 185, b == 50
+Time to completion: 0.792414 secs
+
+Results for n == 10000, w == 190, b == 50
+Time to completion: 0.757969 secs
+
+Results for n == 10000, w == 195, b == 50
+Time to completion: 0.752007 secs
+
+Results for n == 10000, w == 200, b == 50
+Time to completion: 0.751695 secs
+
+Results for n == 10000, w == 205, b == 50
+Time to completion: 0.765415 secs
+
+Results for n == 10000, w == 210, b == 50
+Time to completion: 0.754353 secs
+
+Results for n == 10000, w == 215, b == 50
+Time to completion: 0.755735 secs
+
+Results for n == 10000, w == 220, b == 50
+Time to completion: 0.696134 secs
+
+Results for n == 10000, w == 225, b == 50
+Time to completion: 0.718541 secs
+
+Results for n == 10000, w == 230, b == 50
+Time to completion: 0.708419 secs
+
+Results for n == 10000, w == 235, b == 50
+Time to completion: 0.732669 secs
+
+Results for n == 10000, w == 240, b == 50
+Time to completion: 0.70916 secs
+
+Results for n == 10000, w == 245, b == 50
+Time to completion: 0.708801 secs
+
+Results for n == 10000, w == 250, b == 50
+Time to completion: 0.660957 secs
+
